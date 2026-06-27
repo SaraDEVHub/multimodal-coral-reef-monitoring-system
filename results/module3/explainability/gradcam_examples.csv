@@ -1,0 +1,9 @@
+﻿name,true_class,predicted_class,confidence,gradcam_path
+IMBRE002_5B_IMG_6208.JPG_4.png,Live_coral,Live_coral,0.999998927116394,C:\Users\elasr\OneDrive\Desktop\hind\results\module3\explainability\gradcam_01.png
+RWA003_10B_IMG_2822.JPG_8.png,Algae,Algae,0.9956094622612,C:\Users\elasr\OneDrive\Desktop\hind\results\module3\explainability\gradcam_02.png
+SLPK22_05B_IMG_1141.JPG_8.png,Substrate_degraded,Substrate_degraded,0.9999873638153076,C:\Users\elasr\OneDrive\Desktop\hind\results\module3\explainability\gradcam_03.png
+SLPK02_10C_IMG_6308.JPG_10.png,Other_background,Other_background,0.9989299178123474,C:\Users\elasr\OneDrive\Desktop\hind\results\module3\explainability\gradcam_04.png
+IMUAS001_05A_IMG_8706.JPG_6.png,Other_background,Live_coral,0.9999957084655762,C:\Users\elasr\OneDrive\Desktop\hind\results\module3\explainability\gradcam_05.png
+RWA020_10B_IMG_3501.JPG_1.png,Algae,Live_coral,0.992597222328186,C:\Users\elasr\OneDrive\Desktop\hind\results\module3\explainability\gradcam_06.png
+IMUAS003_10B_IMG_0967.JPG_4.png,Substrate_degraded,Live_coral,0.9921107888221741,C:\Users\elasr\OneDrive\Desktop\hind\results\module3\explainability\gradcam_07.png
+SLPK22_05B_IMG_1142.JPG_9.png,Substrate_degraded,Live_coral,0.9815435409545898,C:\Users\elasr\OneDrive\Desktop\hind\results\module3\explainability\gradcam_08.png

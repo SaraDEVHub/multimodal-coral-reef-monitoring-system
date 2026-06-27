@@ -1,0 +1,33 @@
+{
+  "model": "MobileNetV2",
+  "image_size": [
+    224,
+    224
+  ],
+  "class_names": [
+    "Live_coral",
+    "Algae",
+    "Substrate_degraded",
+    "Other_background"
+  ],
+  "class_to_id": {
+    "Live_coral": 0,
+    "Algae": 1,
+    "Substrate_degraded": 2,
+    "Other_background": 3
+  },
+  "preprocessing": "mobilenet_v2.preprocess_input",
+  "split_strategy": "grouped by original_image_id",
+  "train_size": 12537,
+  "validation_size": 2679,
+  "test_size": 2654,
+  "metrics": {
+    "test_loss": 0.7226335406303406,
+    "accuracy": 0.7087415222305953,
+    "balanced_accuracy": 0.7069184153210886,
+    "macro_precision": 0.6899801112245266,
+    "macro_recall": 0.7069184153210886,
+    "macro_f1": 0.696504640101528
+  },
+  "limitation": "The source dataset is named ReefNet RSG TestDataset and was reorganized as a proof of concept."
+}

@@ -1,0 +1,3 @@
+﻿fold,file_accuracy,file_balanced_accuracy,file_f1,n_test_files
+1,1.0,1.0,1.0,15
+2,1.0,1.0,1.0,14

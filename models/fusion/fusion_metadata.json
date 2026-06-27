@@ -1,0 +1,14 @@
+{
+  "method": "experimental_rule_based_fusion",
+  "weights": {
+    "microplastic": 0.35,
+    "hab": 0.3,
+    "visual": 0.35
+  },
+  "thresholds": {
+    "Healthy": "[0.00, 0.33)",
+    "At risk": "[0.33, 0.66)",
+    "Degraded": "[0.66, 1.00]"
+  },
+  "warning": "Not a field-validated ecological diagnosis."
+}

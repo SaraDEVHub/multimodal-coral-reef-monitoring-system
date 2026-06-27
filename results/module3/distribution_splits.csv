@@ -1,0 +1,13 @@
+﻿split,ecological_class,count,percentage
+train,Live_coral,3799,30.302305176677034
+train,Algae,3987,31.80186647523331
+train,Substrate_degraded,3195,25.484565685570708
+train,Other_background,1556,12.411262662518945
+validation,Live_coral,885,33.03471444568869
+validation,Algae,814,30.384471817842478
+validation,Substrate_degraded,648,24.188129899216126
+validation,Other_background,332,12.392683837252706
+test,Live_coral,792,29.84174830444612
+test,Algae,826,31.122833458929914
+test,Substrate_degraded,758,28.560663149962323
+test,Other_background,278,10.474755086661643

@@ -1,0 +1,31 @@
+﻿filename,family,binary_label,binary_name,use_for_binary,rows,columns
+DF_20230817 PE 20um 150-750C.csv,PE,1.0,Polymère,True,260,1664
+DF_20230817 PP industrial 150-750C.csv,PP,1.0,Polymère,True,260,1664
+DF_20230818 PET industrial 150-750C.csv,PET,1.0,Polymère,True,260,1664
+DF_20230821 LDPE industrial 150-750C.csv,PE,1.0,Polymère,True,260,1664
+DF_20230821 PS clear industrial 150-750C.csv,PS,1.0,Polymère,True,261,1664
+DF_20230822 PMMA cospheric 150-750C.csv,PMMA,1.0,Polymère,True,261,1664
+DF_20230822 Teflon 8000l 150-750C.csv,PTFE,1.0,Polymère,True,261,1664
+DF_20230823 PUR industial 150-750C.csv,PUR,1.0,Polymère,True,261,1664
+DF_20230823 PVC industrial 150-750C.csv,PVC,1.0,Polymère,True,260,1664
+DF_20230823 Teflon 7A 150-750C.csv,PTFE,1.0,Polymère,True,261,1664
+DF_20231108 Nylon Flock 150-750C.csv,PA,1.0,Polymère,True,260,1664
+DF_20231108 PS Cospheric 150-750C.csv,PS,1.0,Polymère,True,260,1664
+DF_20231108 PS Sigma 150-750C.csv,PS,1.0,Polymère,True,260,1664
+DF_20231109 cellulose NRC 150-750C.csv,CELLULOSE,0.0,Non-plastique,True,261,1664
+DF_20231110 cellulose sigma 150-750C.csv,CELLULOSE,0.0,Non-plastique,True,261,1664
+DF_20231110 PP 55um 150-750C.csv,PP,1.0,Polymère,True,262,1664
+DF_20231122 PA7-Blank recovered 150-750C.csv,AMBIGUOUS_BLANK,,Ambigu / exclu,False,260,1664
+DF_20240109 PET Flock 150-750C.csv,PET,1.0,Polymère,True,260,1664
+DF_20240109 PET Sigma 150-750C.csv,PET,1.0,Polymère,True,261,1664
+DF_20240110 HDPE Sigma 150-750C.csv,PE,1.0,Polymère,True,261,1664
+DF_20240110 PS Sigma 150-750C.csv,PS,1.0,Polymère,True,261,1664
+DF_20240115 PC Magerial 150-750C.csv,PC,1.0,Polymère,True,261,1664
+DF_20240115 PVC Magerial 150-750C.csv,PVC,1.0,Polymère,True,261,1664
+DF_20240115 PVC Sigma 150-750C.csv,PVC,1.0,Polymère,True,261,1664
+DF_20240116 PA 6 Magerial 150-750C.csv,PA,1.0,Polymère,True,261,1664
+DF_20240116 PA 66 Magerial 150-750C.csv,PA,1.0,Polymère,True,260,1664
+DF_20240116 PMMA Magerial 150-750C.csv,PMMA,1.0,Polymère,True,261,1664
+DF_20240117 PMMA Sigma 150-750C.csv,PMMA,1.0,Polymère,True,261,1664
+DF_20240308 PC NC 150-750C.csv,PC,1.0,Polymère,True,253,1664
+DF_20240308 PP NC 150-750C.csv,PP,1.0,Polymère,True,253,1664

@@ -1,0 +1,28 @@
+{
+  "task": "HAB_binary_prediction",
+  "main_model": "MLP",
+  "comparison_model": "XGBoost",
+  "target": "HAB_Present",
+  "features": [
+    "Rolling_Chlorophyll_Anomaly",
+    "Rolling_SST_Anomaly",
+    "Surface_Chlorophyll",
+    "Sea_Surface_Temperature",
+    "Dissolved_Oxygen",
+    "pH",
+    "Total_Nitrogen",
+    "Total_Phosphorus"
+  ],
+  "excluded_features": [
+    "Bloom_Index"
+  ],
+  "threshold": 0.5,
+  "class_0": "HAB absent",
+  "class_1": "HAB present",
+  "dataset_type": "synthetic GAN-generated dataset",
+  "limitations": [
+    "Synthetic data do not replace field validation.",
+    "Bloom_Index was excluded to reduce target leakage.",
+    "The positive class is less frequent than the negative class."
+  ]
+}

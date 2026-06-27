@@ -1,0 +1,11 @@
+{
+  "gradcam_last_convolution_layer": "out_relu",
+  "ecological_index": "(0.5 * relative_algae_probability + 1.0 * relative_degraded_probability)",
+  "relative_probabilities_exclude": "Other_background",
+  "thresholds": {
+    "Healthy": "[0.00, 0.33)",
+    "At_risk": "[0.33, 0.66)",
+    "Degraded": "[0.66, 1.00]"
+  },
+  "warning": "This is an experimental rule-based ecological index. It is not a field-validated ecological diagnosis."
+}
